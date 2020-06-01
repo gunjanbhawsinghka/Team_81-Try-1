@@ -17,11 +17,7 @@
 #### 2. Other files: 
 - [dataset](dataset) : Contains images for training SVM models.
 - [0.png](0.png) : Contains non-traffic-sign cropped images which can be recognized as traffic signs
- 
- ![](/images/0.png)
 - [all_signs.png](all_signs.png) : Contains all used signs 
- 
- ![](/images/all-signs.png)
 - [data_svm.dat](data_svm.dat) : Saved SVM model after training.
 - [demo.gif](demo.gif) : Demo output of the program
 
