@@ -18,7 +18,7 @@ SIGNS = ["ERROR",
         "DO NOT TURN RIGHT",
         "ONE WAY",
         "SPEED LIMIT",
-        "OTHER"]
+        "30 km/h"]
 
 # Clean all previous file
 def clean_images():
